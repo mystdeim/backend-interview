@@ -8,7 +8,7 @@ DeblockFlights is a flights search solution which aggregates flight results init
 **What is required:**
 
 Hexagonal architecture is preferred, but not mandatory: https://www.baeldung.com/hexagonal-architecture-ddd-spring
-Kotlin is preferred, but you can do it in Java.
+Kotlin is what we use.
 
 Use this GitHub repository as a base to implement the Deblock Flights service that should produce an aggregated result from both CrazyAir and ToughJet.
 The result should be a JSON response which contains a list of flights ordered by fare which has the following attributes:
