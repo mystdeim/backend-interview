@@ -1,0 +1,7 @@
+supplier:
+  crazyair:
+    enabled: true
+    url: https://crazyair.example.com/flights
+  toughjet:
+    enabled: true
+    url: https://toughjet.example.com/flights 
